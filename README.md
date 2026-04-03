@@ -32,17 +32,15 @@ pip install requests
 Clone the repository:
 
 ```bash
-git clone https://github.com/sys-node4/crypto-wallet-checker.git
-cd crypto-wallet-checker
+git clone https://github.com/sys-node4/Crypto-stalker
+cd Crypto-stalker
 ```
 
 Or download the single file directly:
 
 ```bash
-curl -O https://raw.githubusercontent.com/sys-node4/crypto-wallet-checker/main/wallet_checker.py
+curl -O https://raw.githubusercontent.com/sys-node4/Crypto-stalker/main/wallet_checker.py
 ```
-
-(If you prefer, just copy-paste the code into a file named `wallet_checker.py`.)
 
 ## Usage
 
