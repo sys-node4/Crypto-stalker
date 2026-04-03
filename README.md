@@ -1,5 +1,7 @@
 # Crypto Wallet Info Checker
 
+<img width="986" height="417" alt="Github image" src="https://github.com/user-attachments/assets/969c67a0-2994-4cec-942e-69fbb96dd224" />
+
 A lightweight, **no-API-key-required** Python CLI tool to quickly check crypto wallet balances, approximate USD value, token holdings (for Ethereum), and recent transactions.
 
 Currently supports:
